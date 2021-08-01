@@ -1,0 +1,11 @@
+button {
+  margin-right: 8px;
+}
+.row {
+  padding-top: 8px;
+}
+
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
